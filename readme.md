@@ -9,5 +9,6 @@ okaykaylynwhatever:TestingThis1!
 heyy
 
 
-https://username:password@github.com/okaykaylynwhatever:TestingThis1!/repository.git
+https://okaykaylynwhatever:TestingThis1!@github.com/username/repository.git
+
 fgdf
